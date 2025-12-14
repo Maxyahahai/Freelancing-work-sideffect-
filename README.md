@@ -1,4 +1,4 @@
-# Sideffect - Creative Video Production & Music Content
+# Sideeffect - Creative Video Production & Music Content
 
 A modern, responsive portfolio website for Sideffect creative studio.
 

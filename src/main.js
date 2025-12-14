@@ -5,7 +5,7 @@ import './style.css';
 const heroButtons = document.querySelectorAll('#hero button');
 heroButtons.forEach(btn => {
   btn.addEventListener('click', () => {
-    alert('Sideffect says hello 😎');
+    alert('Sideeffect says hello 😎');
   });
 });
 
